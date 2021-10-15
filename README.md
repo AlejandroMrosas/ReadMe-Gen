@@ -1,4 +1,4 @@
-# 
+# Read Me Generator
 
 ## Table of Contents:
 * [Description](#Description)
@@ -11,26 +11,27 @@
 * [Email](#Email)
 
 ## Description 
-
+This Project is to create a ReadMe for you.
 
 ## Installation 
-
+The way to install this app is to download repository in my github.
 
 ## Usage 
-
+The way to use this app is to type command npm index.js
 
 ## Contributing
-
+UofA
 
 ## Tests 
-
+npm index.js
 
 ## License 
-
+Currently i do not have a license installed
 
 ## Contact Information:
 
 ## Github:
-https://github.com/
+https://github.com/https://github.com/AlejandroMrosas
 ## Email:
-alex@gmail.com
+Alejandromrosas@outlook.com
+
