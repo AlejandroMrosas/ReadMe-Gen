@@ -1,5 +1,8 @@
 # Read Me Generator
 
+## Project Video
+https://watch.screencastify.com/v/8f01ilOwfRNSyCDX3nrp
+
 ## Table of Contents:
 * [Description](#Description)
 * [Installation](#Installation)
